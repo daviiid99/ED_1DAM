@@ -17,7 +17,7 @@ ut labore et dolore magna aliqua.
 
 //Modificar para guardar con terminal
 
-// Git paso a paso
+-------------- Git paso a paso --------------------
 // Pasos
  1 Entro en la carpeta que quiero que se convierta en un repo de Git
       -- Usando comandos de terminal
@@ -45,3 +45,9 @@ ut labore et dolore magna aliqua.
 5 Para hacer comit y add al mismo tiempo:
 - git commit -m "sin commit -a"
 - git commit -a -m "con commit -a"
+
+6 Para hacer el "push" tenemos 2 opciones:
+6.1 Si no tenemos enlazado el repositorio
+  - git push "url"
+6.2 Si ya tenemos enlazado el github con el repositorio
+  - git push 
