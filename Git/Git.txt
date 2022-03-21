@@ -41,3 +41,7 @@ ut labore et dolore magna aliqua.
   - git long
   - git log -p == Para ver al detalle las modificaciones
   - git log -3 == Para ver los 3 ultimos commit
+
+5 Para hacer comit y add al mismo tiempo:
+- git commit -m "sin commit -a"
+- git commit -a -m "con commit -a"
