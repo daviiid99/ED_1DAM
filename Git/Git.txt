@@ -18,6 +18,7 @@ ut labore et dolore magna aliqua.
 //Modificar para guardar con terminal
 
 // Git paso a paso
+// Pasos
  1 Entro en la carpeta que quiero que se convierta en un repo de Git
       -- Usando comandos de terminal
 2.1 Crear un repositorio. La carpeta se convierte en un repositorio git
