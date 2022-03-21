@@ -18,6 +18,8 @@ ut labore et dolore magna aliqua.
 //Modificar para guardar con terminal
 
 -------------- Git paso a paso --------------------
+OJO: Para cambiar usuario ir a credenciales
+
 // Pasos
  1 Entro en la carpeta que quiero que se convierta en un repo de Git
       -- Usando comandos de terminal
@@ -50,4 +52,4 @@ ut labore et dolore magna aliqua.
 6.1 Si no tenemos enlazado el repositorio
   - git push "url"
 6.2 Si ya tenemos enlazado el github con el repositorio
-  - git push 
+  - git push
