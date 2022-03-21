@@ -36,3 +36,8 @@ ut labore et dolore magna aliqua.
 
 3.2 Va a estar en verde cuando:
       git add "nombreArchivo"
+
+4 Para ver los commit realizados:
+  - git long
+  - git log -p == Para ver al detalle las modificaciones
+  - git log -3 == Para ver los 3 ultimos commit
