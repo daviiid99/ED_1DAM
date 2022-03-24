@@ -68,3 +68,6 @@ OJO: Para cambiar usuario ir a credenciales
   - git push <url del repositorio>
 8.5 Unir rama al master (prevalece amser)
   - git branch -d rama [-D PARA FORZAR]
+
+
+ESTOY EN RAMA 2
