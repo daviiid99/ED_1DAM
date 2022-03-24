@@ -53,3 +53,6 @@ OJO: Para cambiar usuario ir a credenciales
   - git push "url"
 6.2 Si ya tenemos enlazado el github con el repositorio
   - git push
+
+7.0 Para ver las modificacione de un archivo:
+  - git diff
