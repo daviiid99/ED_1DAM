@@ -56,3 +56,13 @@ OJO: Para cambiar usuario ir a credenciales
 
 7.0 Para ver las modificacione de un archivo:
   - git diff
+
+8.0 Con las ramas:
+8.1- Para mostrar las ramas:
+  - git branch
+8.2 Para crear una rama:
+  - git branch <nombreRama>
+8.3 Para movernos entre ramas:
+  - git checkout <nombreRama>
+8.4 Para push una rama nueva:
+  - git push <url del repositorio>
