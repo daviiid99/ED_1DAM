@@ -74,4 +74,4 @@ OJO: Para cambiar usuario ir a credenciales
   - git merge <ramaDestino>
 9.2 Si se han hecho modificaciones en las dos ramas "padre e hijo" copiamos la info
     del hijo en el padre y despues eliminamos el hijo
-    
+    - git fetch "url de la rama que queremos copia en la actual"
